@@ -1,0 +1,4 @@
+How to Enable a service
+EX: enabling dbus
+sudo ln -s /etc/sv/dbus /var/service
+
